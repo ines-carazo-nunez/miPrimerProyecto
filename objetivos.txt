@@ -1,3 +1,4 @@
 OBJETIVOS QUE CUMPLIR EN ESTE MÁSTER:
 1.- Entregar todas las actividades en el tiempo indicado
 2.- Conectarme al mayor número de clases que me sea posible
+3.- Ampliar mis conocimientos sobre el desarrollo fullstack
